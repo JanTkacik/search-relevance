@@ -1,0 +1,7 @@
+﻿namespace SearchRelevance
+{
+    class NeuralNetworkLearning
+    {
+
+    }
+}
